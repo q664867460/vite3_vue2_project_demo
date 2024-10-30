@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/q664867460/vite3_vue2_project_demo/compare/v0.0.7...v0.0.8) (2024-10-30)
+
+
+### 🔧 Chores
+
+* **versionrc:** 更改记录版本插件的配置文件的规则 ([dd61cb1](https://github.com/q664867460/vite3_vue2_project_demo/commit/dd61cb11edb625f85e4fcdee6bdf03329344545a))
+
 ### [0.0.7](https://github.com/q664867460/vite3_vue2_project_demo/compare/v0.0.6...v0.0.7) (2024-10-30)
 
 ### [0.0.6](https://github.com/q664867460/vite3_vue2_project_demo/compare/v0.0.5...v0.0.6) (2024-10-30)
