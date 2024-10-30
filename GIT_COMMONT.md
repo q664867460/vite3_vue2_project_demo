@@ -38,6 +38,7 @@ feat(button): 新增一个编辑按钮组件
 
 ~~~git commont
 # 带图标的
+✨ feat(xxx): xxx
 :sparkles: feat(xxx): xxx
 ~~~
 
@@ -54,6 +55,7 @@ feat(xxx): xxx
 
 ~~~git commont
 # 带图标的
+🐛 fix(xxx): xxx
 :bug: fix(xxx): xxx
 ~~~
 
@@ -70,6 +72,7 @@ fix(xxx): xxx
 
 ~~~git commont
 # 带图标的
+📝 docs(xxx): xxx
 :memo: docs(xxx): xxx
 ~~~
 
