@@ -1,0 +1,25 @@
+{
+  "name": "vite3_vue2",
+  "version": "0.0.1",
+  "description": "vite3、vue2 项目模板",
+  "author": "lyx",
+  "license": "MIT",
+  "keywords": [
+    "vue2",
+    "vite3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q664867460/vite3_vue2_project_demo.git"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0",
+    "husky": "^9.1.6",
+    "standard-version": "^9.5.0"
+  }
+}
